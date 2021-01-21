@@ -12,12 +12,12 @@ In each patient subfolder, the nifti file of the ROIs for each individual muscle
 
 # Prerequisites
 
-python3 
-keras 
-tensorflow 
-numpy 
-skimage 
-nibabel
+python3, 
+keras, 
+tensorflow, 
+numpy, 
+skimage, 
+nibabel,
 scipy
 
 # Acknowledgments
