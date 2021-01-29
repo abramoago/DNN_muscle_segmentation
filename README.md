@@ -3,6 +3,7 @@ Automatic Segmentation Tool of thigh and leg muscles from MRI
 
 ## Instructions
 
+Unzip inside the folder DNN_muscle_segmentation the files 'leg.zip', 'thigh.zip' and 'thigh_leg.zip' (containing the weights of the DNNs) provided in the release.
 Create a subfolder for each patient in the folder 'Patients', containing the nifti file of the first echo of the multi-echo gradient echo sequence, named as 'TE1_mag.nii.gz'.
 
 Run: 
